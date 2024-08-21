@@ -44,7 +44,7 @@ A Django-based web application:
 
 
 
-📫 How to reach me: [ray00211@gmai.com](ray00211@gmail.com)
+📫 How to reach me: [ray00211@gmail.com](ray00211@gmail.com)
 
 
 
